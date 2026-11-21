@@ -1,0 +1,27 @@
+[
+  {
+    "location_id":"LOC-001",
+    "location_name":"Warehouse 1",
+    "location_type":"Warehouse"
+  },
+  {
+    "location_id":"LOC-002",
+    "location_name":"Warehouse 2",
+    "location_type":"Warehouse"
+  },
+  {
+    "location_id":"LOC-003",
+    "location_name":"Warehouse 3",
+    "location_type":"Warehouse"
+  },
+  {
+    "location_id":"LOC-004",
+    "location_name":"Warehouse 4",
+    "location_type":"Warehouse"
+  },
+  {
+    "location_id":"LOC-005",
+    "location_name":"Warehouse 5",
+    "location_type":"Warehouse"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "supplier_id":"SUP-001",
+    "supplier_name":"Supplier 1",
+    "minimum_order_quantity":50,
+    "maximum_weekly_capacity":1000
+  },
+  {
+    "supplier_id":"SUP-002",
+    "supplier_name":"Supplier 2",
+    "minimum_order_quantity":20,
+    "maximum_weekly_capacity":1000
+  },
+  {
+    "supplier_id":"SUP-003",
+    "supplier_name":"Supplier 3",
+    "minimum_order_quantity":10,
+    "maximum_weekly_capacity":750
+  },
+  {
+    "supplier_id":"SUP-004",
+    "supplier_name":"Supplier 4",
+    "minimum_order_quantity":20,
+    "maximum_weekly_capacity":500
+  },
+  {
+    "supplier_id":"SUP-005",
+    "supplier_name":"Supplier 5",
+    "minimum_order_quantity":10,
+    "maximum_weekly_capacity":500
+  },
+  {
+    "supplier_id":"SUP-006",
+    "supplier_name":"Supplier 6",
+    "minimum_order_quantity":20,
+    "maximum_weekly_capacity":1000
+  },
+  {
+    "supplier_id":"SUP-007",
+    "supplier_name":"Supplier 7",
+    "minimum_order_quantity":50,
+    "maximum_weekly_capacity":500
+  },
+  {
+    "supplier_id":"SUP-008",
+    "supplier_name":"Supplier 8",
+    "minimum_order_quantity":10,
+    "maximum_weekly_capacity":1000
+  },
+  {
+    "supplier_id":"SUP-009",
+    "supplier_name":"Supplier 9",
+    "minimum_order_quantity":50,
+    "maximum_weekly_capacity":500
+  },
+  {
+    "supplier_id":"SUP-010",
+    "supplier_name":"Supplier 10",
+    "minimum_order_quantity":20,
+    "maximum_weekly_capacity":1000
+  },
+  {
+    "supplier_id":"SUP-011",
+    "supplier_name":"Supplier 11",
+    "minimum_order_quantity":20,
+    "maximum_weekly_capacity":750
+  },
+  {
+    "supplier_id":"SUP-012",
+    "supplier_name":"Supplier 12",
+    "minimum_order_quantity":10,
+    "maximum_weekly_capacity":750
+  },
+  {
+    "supplier_id":"SUP-013",
+    "supplier_name":"Supplier 13",
+    "minimum_order_quantity":50,
+    "maximum_weekly_capacity":750
+  },
+  {
+    "supplier_id":"SUP-014",
+    "supplier_name":"Supplier 14",
+    "minimum_order_quantity":50,
+    "maximum_weekly_capacity":500
+  },
+  {
+    "supplier_id":"SUP-015",
+    "supplier_name":"Supplier 15",
+    "minimum_order_quantity":50,
+    "maximum_weekly_capacity":750
+  },
+  {
+    "supplier_id":"SUP-016",
+    "supplier_name":"Supplier 16",
+    "minimum_order_quantity":50,
+    "maximum_weekly_capacity":1000
+  },
+  {
+    "supplier_id":"SUP-017",
+    "supplier_name":"Supplier 17",
+    "minimum_order_quantity":50,
+    "maximum_weekly_capacity":1000
+  },
+  {
+    "supplier_id":"SUP-018",
+    "supplier_name":"Supplier 18",
+    "minimum_order_quantity":50,
+    "maximum_weekly_capacity":1000
+  },
+  {
+    "supplier_id":"SUP-019",
+    "supplier_name":"Supplier 19",
+    "minimum_order_quantity":50,
+    "maximum_weekly_capacity":1000
+  },
+  {
+    "supplier_id":"SUP-020",
+    "supplier_name":"Supplier 20",
+    "minimum_order_quantity":20,
+    "maximum_weekly_capacity":750
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "sku_id":"SKU-000001",
+    "sku_name":"Product 1",
+    "category":"Clothing",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000002",
+    "sku_name":"Product 2",
+    "category":"Furniture",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000003",
+    "sku_name":"Product 3",
+    "category":"Clothing",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000004",
+    "sku_name":"Product 4",
+    "category":"Furniture",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000005",
+    "sku_name":"Product 5",
+    "category":"Electronics",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000006",
+    "sku_name":"Product 6",
+    "category":"Electronics",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000007",
+    "sku_name":"Product 7",
+    "category":"Electronics",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000008",
+    "sku_name":"Product 8",
+    "category":"Electronics",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000009",
+    "sku_name":"Product 9",
+    "category":"Electronics",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000010",
+    "sku_name":"Product 10",
+    "category":"Electronics",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000011",
+    "sku_name":"Product 11",
+    "category":"Clothing",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000012",
+    "sku_name":"Product 12",
+    "category":"Clothing",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000013",
+    "sku_name":"Product 13",
+    "category":"Electronics",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000014",
+    "sku_name":"Product 14",
+    "category":"Electronics",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000015",
+    "sku_name":"Product 15",
+    "category":"Electronics",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000016",
+    "sku_name":"Product 16",
+    "category":"Electronics",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000017",
+    "sku_name":"Product 17",
+    "category":"Furniture",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000018",
+    "sku_name":"Product 18",
+    "category":"Clothing",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000019",
+    "sku_name":"Product 19",
+    "category":"Clothing",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000020",
+    "sku_name":"Product 20",
+    "category":"Clothing",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000021",
+    "sku_name":"Product 21",
+    "category":"Clothing",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000022",
+    "sku_name":"Product 22",
+    "category":"Electronics",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000023",
+    "sku_name":"Product 23",
+    "category":"Clothing",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000024",
+    "sku_name":"Product 24",
+    "category":"Electronics",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000025",
+    "sku_name":"Product 25",
+    "category":"Electronics",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000026",
+    "sku_name":"Product 26",
+    "category":"Clothing",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000027",
+    "sku_name":"Product 27",
+    "category":"Electronics",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000028",
+    "sku_name":"Product 28",
+    "category":"Electronics",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000029",
+    "sku_name":"Product 29",
+    "category":"Clothing",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000030",
+    "sku_name":"Product 30",
+    "category":"Furniture",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000031",
+    "sku_name":"Product 31",
+    "category":"Electronics",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000032",
+    "sku_name":"Product 32",
+    "category":"Clothing",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000033",
+    "sku_name":"Product 33",
+    "category":"Electronics",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000034",
+    "sku_name":"Product 34",
+    "category":"Furniture",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000035",
+    "sku_name":"Product 35",
+    "category":"Electronics",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000036",
+    "sku_name":"Product 36",
+    "category":"Clothing",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000037",
+    "sku_name":"Product 37",
+    "category":"Furniture",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000038",
+    "sku_name":"Product 38",
+    "category":"Furniture",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000039",
+    "sku_name":"Product 39",
+    "category":"Electronics",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000040",
+    "sku_name":"Product 40",
+    "category":"Electronics",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000041",
+    "sku_name":"Product 41",
+    "category":"Electronics",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000042",
+    "sku_name":"Product 42",
+    "category":"Electronics",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000043",
+    "sku_name":"Product 43",
+    "category":"Furniture",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000044",
+    "sku_name":"Product 44",
+    "category":"Electronics",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000045",
+    "sku_name":"Product 45",
+    "category":"Electronics",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000046",
+    "sku_name":"Product 46",
+    "category":"Clothing",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000047",
+    "sku_name":"Product 47",
+    "category":"Electronics",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000048",
+    "sku_name":"Product 48",
+    "category":"Clothing",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000049",
+    "sku_name":"Product 49",
+    "category":"Clothing",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000050",
+    "sku_name":"Product 50",
+    "category":"Furniture",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000051",
+    "sku_name":"Product 51",
+    "category":"Electronics",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000052",
+    "sku_name":"Product 52",
+    "category":"Electronics",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000053",
+    "sku_name":"Product 53",
+    "category":"Furniture",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000054",
+    "sku_name":"Product 54",
+    "category":"Clothing",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000055",
+    "sku_name":"Product 55",
+    "category":"Furniture",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000056",
+    "sku_name":"Product 56",
+    "category":"Electronics",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000057",
+    "sku_name":"Product 57",
+    "category":"Furniture",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000058",
+    "sku_name":"Product 58",
+    "category":"Furniture",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000059",
+    "sku_name":"Product 59",
+    "category":"Clothing",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000060",
+    "sku_name":"Product 60",
+    "category":"Electronics",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000061",
+    "sku_name":"Product 61",
+    "category":"Electronics",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000062",
+    "sku_name":"Product 62",
+    "category":"Furniture",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000063",
+    "sku_name":"Product 63",
+    "category":"Clothing",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000064",
+    "sku_name":"Product 64",
+    "category":"Electronics",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000065",
+    "sku_name":"Product 65",
+    "category":"Electronics",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000066",
+    "sku_name":"Product 66",
+    "category":"Electronics",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000067",
+    "sku_name":"Product 67",
+    "category":"Furniture",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000068",
+    "sku_name":"Product 68",
+    "category":"Electronics",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000069",
+    "sku_name":"Product 69",
+    "category":"Furniture",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000070",
+    "sku_name":"Product 70",
+    "category":"Clothing",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000071",
+    "sku_name":"Product 71",
+    "category":"Electronics",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000072",
+    "sku_name":"Product 72",
+    "category":"Electronics",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000073",
+    "sku_name":"Product 73",
+    "category":"Electronics",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000074",
+    "sku_name":"Product 74",
+    "category":"Electronics",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000075",
+    "sku_name":"Product 75",
+    "category":"Furniture",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000076",
+    "sku_name":"Product 76",
+    "category":"Electronics",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000077",
+    "sku_name":"Product 77",
+    "category":"Clothing",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000078",
+    "sku_name":"Product 78",
+    "category":"Furniture",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000079",
+    "sku_name":"Product 79",
+    "category":"Furniture",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000080",
+    "sku_name":"Product 80",
+    "category":"Clothing",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000081",
+    "sku_name":"Product 81",
+    "category":"Electronics",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000082",
+    "sku_name":"Product 82",
+    "category":"Clothing",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000083",
+    "sku_name":"Product 83",
+    "category":"Clothing",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000084",
+    "sku_name":"Product 84",
+    "category":"Electronics",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000085",
+    "sku_name":"Product 85",
+    "category":"Furniture",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000086",
+    "sku_name":"Product 86",
+    "category":"Electronics",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000087",
+    "sku_name":"Product 87",
+    "category":"Clothing",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000088",
+    "sku_name":"Product 88",
+    "category":"Furniture",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000089",
+    "sku_name":"Product 89",
+    "category":"Electronics",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000090",
+    "sku_name":"Product 90",
+    "category":"Clothing",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000091",
+    "sku_name":"Product 91",
+    "category":"Furniture",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000092",
+    "sku_name":"Product 92",
+    "category":"Electronics",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000093",
+    "sku_name":"Product 93",
+    "category":"Electronics",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000094",
+    "sku_name":"Product 94",
+    "category":"Electronics",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000095",
+    "sku_name":"Product 95",
+    "category":"Clothing",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000096",
+    "sku_name":"Product 96",
+    "category":"Electronics",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000097",
+    "sku_name":"Product 97",
+    "category":"Furniture",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000098",
+    "sku_name":"Product 98",
+    "category":"Clothing",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000099",
+    "sku_name":"Product 99",
+    "category":"Clothing",
+    "unit_of_measure":"Each"
+  },
+  {
+    "sku_id":"SKU-000100",
+    "sku_name":"Product 100",
+    "category":"Clothing",
+    "unit_of_measure":"Each"
+  }
+]

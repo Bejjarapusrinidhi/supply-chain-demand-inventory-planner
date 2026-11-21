@@ -63,7 +63,7 @@ supply_chain_planner/
 Clone the repository:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/Bejjarapusrinidhi/supply-chain-demand-inventory-planner.git
 cd supply_chain_planner
 ```
 

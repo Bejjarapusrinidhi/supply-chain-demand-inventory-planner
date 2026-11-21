@@ -1,0 +1,21 @@
+supplier_id,supplier_name,minimum_order_quantity,maximum_weekly_capacity
+SUP-001,Supplier 1,50,1000
+SUP-002,Supplier 2,20,1000
+SUP-003,Supplier 3,10,750
+SUP-004,Supplier 4,20,500
+SUP-005,Supplier 5,10,500
+SUP-006,Supplier 6,20,1000
+SUP-007,Supplier 7,50,500
+SUP-008,Supplier 8,10,1000
+SUP-009,Supplier 9,50,500
+SUP-010,Supplier 10,20,1000
+SUP-011,Supplier 11,20,750
+SUP-012,Supplier 12,10,750
+SUP-013,Supplier 13,50,750
+SUP-014,Supplier 14,50,500
+SUP-015,Supplier 15,50,750
+SUP-016,Supplier 16,50,1000
+SUP-017,Supplier 17,50,1000
+SUP-018,Supplier 18,50,1000
+SUP-019,Supplier 19,50,1000
+SUP-020,Supplier 20,20,750
